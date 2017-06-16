@@ -18,7 +18,7 @@
     "bulk": "^2.0.0",
     "cssnext": "^1.8.1",
     "linklocal": "^2.5.2",
-    "serve": "^1.4.0",
+    "serve": "^5.2.0",
     "watchify": "^3.2.3",
     "webcomponents.js": "^0.7.2"
   }
